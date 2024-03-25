@@ -70,7 +70,7 @@ describe('Primer conjunto de caso de pruebas', () => {
     cy.get('#selectProductSort').select('In stock').should('have.value', 'names:asc')
     })
   //caso de pruebva 6(Yo solo)
-  it.only('Crear una compra desde cero', () => {
+  it('Crear una compra desde cero', () => {
     cy.get('#search_query_top').type('Blouse');
     cy.get('#searchbox > button').click();
     cy.get('h5[itemprop="name"]>a').contains("Blouse").should('exist');
