@@ -1,14 +1,21 @@
 {
-  "Nombre":"Gabriel",
-  "Apellido":"Lebron",
-  "Email":"Gabriellebron@gmail.com",
-  "Sexo":"Male",
-  "Telefono":"1234567890",
-  "Nacimiento":["December","1990","31"],
-  "Materias":"English",
-  "Hobbies":["Sport","Music"],
-  "Imagen":"My_Photo.jpg",
-  "Direccion":"Por ahí",
-  "Estado":"NCR",
-  "Ciudad":"Delhi" 
+  "Nombre": "Gabriel",
+  "Apellido": "Lebron",
+  "Email": "Gabriellebron@gmail.com",
+  "Sexo": "Female",
+  "Telefono": "1234567890",
+  "Nacimiento": [
+    "December",
+    "1990",
+    "31"
+  ],
+  "Materias": "English",
+  "Hobbies": [
+    "Sports",
+    "Music"
+  ],
+  "Imagen": "My_Photo.jpg",
+  "Direccion": "Por ahí",
+  "Estado": "NCR",
+  "Ciudad": "Delhi"
 }
